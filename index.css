@@ -1,0 +1,70 @@
+.baslik{
+    color: rgb(221, 87, 132);
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+}
+
+.header{
+    text-align: center;
+}
+
+ .header p{
+    
+   display: inline-block;
+   text-decoration: underline;
+  padding: 15px;
+   
+} 
+
+.article{
+    text-align: center;
+}
+
+.article h1{
+    color: blueviolet;
+    font-family: "Sofia", sans-serif;
+}
+
+.footer{
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.footer h2{
+    color: rgb(189, 139, 53);
+    font-family: "Sofia", sans-serif;
+}
+
+.navbar{
+    text-align: center;
+    padding: 20px;
+    margin-top: 15px;
+    list-style-position: inside;
+    line-height: 45px;
+    
+}
+
+.navbar h1{
+    color: blueviolet;
+    font-family: "Sofia", sans-serif;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    
+}
+
+
+
+.section h1{
+    color: blueviolet;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+}
+
+.section h2{
+    color: rgb(189, 139, 53); 
+}
